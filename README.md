@@ -1,3 +1,3 @@
 # Algorithm
 - Practice algorithm
-- Learn more about programming.f
+- Learn more about programming.
